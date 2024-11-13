@@ -1,0 +1,15 @@
+# data.yaml
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['goalie', 'player', 'referee']
+
+#roboflow:
+#  workspace: finalproject-l7mc2
+#  project: hockey-jerseys
+#  version: 1
+#  license: CC BY 4.0
+#  url: https://universe.roboflow.com/finalproject-l7mc2/hockey-jerseys/dataset/1
